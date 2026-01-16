@@ -6,6 +6,16 @@ I minimized the performance impact as much as possible!
 **It does not run any commands per tick or reload!** They only get triggered by custom advancements that will remain.
 Only the necassary commands to leave are executed.
 
+# Installation:
+Go to your Minecraft Folder and find your World. There put your .zip file in the datapacks folder.
+
+<img width="570" height="176" alt="image" src="https://github.com/user-attachments/assets/8d802807-3d6c-4484-b1dd-ffac3d07e00b" />
+
+> [!TIP]
+> You don't need to unzip the file. 
+
+Thats it!
+
 #
 <p align="center">
   <a href="https://github.com/MavLeague/pocket_dimension/blob/main/LICENSE.md">
