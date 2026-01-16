@@ -1,10 +1,10 @@
-# World Fixer: Pocket Dimensions
-This branch is just for those who don't want to play the pack anymore. When you try to just delete the pack your world wouldn't be loadable anymore. This is caused by the custom dimensions and the missing dimension type. All this pack does is to add these missing files to not lose your world. It also still allows Players to leave the pockets incase they get trapped after removal.
-So you can safely remove the datapack from your Server if you wish.
+# World Fixer: [Pocket Dimensions](https://github.com/MavLeague/pocket_dimension)
+This pack is intended for those who no longer wish to play the main [Pocket Dimensions](https://github.com/MavLeague/pocket_dimension) pack. If you simply delete the pack, your world will no longer be loadable. This is due to the custom dimensions and missing dimension type. This pack simply adds these missing files so that you don't lose your world. It also allows players to leave the pockets in case they get trapped after removal.
+Therefore, you can safely remove the datapack from your server if you wish.
 
-I minimized performance impact as much as possible!
+I minimized the performance impact as much as possible!
 **It does not run any commands per tick or reload!** They only get triggered by custom advancements that will remain.
-Only the nessassary commands to leave are run.
+Only the necassary commands to leave are executed.
 
 #
 <p align="center">
